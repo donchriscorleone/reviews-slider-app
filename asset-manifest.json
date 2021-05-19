@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reviews-slider-app/static/css/main.e9f6b2cf.chunk.css",
+    "main.js": "/reviews-slider-app/static/js/main.72fd09f7.chunk.js",
+    "main.js.map": "/reviews-slider-app/static/js/main.72fd09f7.chunk.js.map",
+    "runtime-main.js": "/reviews-slider-app/static/js/runtime-main.2f843c05.js",
+    "runtime-main.js.map": "/reviews-slider-app/static/js/runtime-main.2f843c05.js.map",
+    "static/js/2.984ec240.chunk.js": "/reviews-slider-app/static/js/2.984ec240.chunk.js",
+    "static/js/2.984ec240.chunk.js.map": "/reviews-slider-app/static/js/2.984ec240.chunk.js.map",
+    "index.html": "/reviews-slider-app/index.html",
+    "static/css/main.e9f6b2cf.chunk.css.map": "/reviews-slider-app/static/css/main.e9f6b2cf.chunk.css.map",
+    "static/js/2.984ec240.chunk.js.LICENSE.txt": "/reviews-slider-app/static/js/2.984ec240.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f843c05.js",
+    "static/js/2.984ec240.chunk.js",
+    "static/css/main.e9f6b2cf.chunk.css",
+    "static/js/main.72fd09f7.chunk.js"
+  ]
+}
